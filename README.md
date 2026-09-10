@@ -33,7 +33,7 @@
 
 ## 개발 환경 설치
 ```bash
-git clone <레포_URL>
+git clone <https://github.com/SeunginKimT/Daycon_AI_Hackathon>
 cd Daycon_AI_Hackathon
 uv venv
 source venv/bin/activate
